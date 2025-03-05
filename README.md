@@ -1,11 +1,25 @@
-# React + Vite
-# GifRxpertApp
+# Gif Expert  
 
-Este es mi repositorio del proyecto de GifExpertApp de React
+## Description  
+This project is a **GIF search app** created as part of a **Udemy course**. The app allows users to search for GIFs based on different categories and keywords. It’s built using **React**, **HTML**, and **CSS**, and integrates with the **Giphy API** to fetch and display GIFs.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Solution Link  
+[GitHub - Gif Expert](https://github.com/Aleji0309/proyectaGifExpert)  
 
-Currently, two official plugins are available:
+## Live Site Link  
+[Live View](https://proyectagifapp.netlify.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used  
+- React  
+- HTML  
+- CSS  
+
+## What I Learned  
+This project helped me improve my **React** skills, particularly in **state management**, **props**, and **API integration**. I learned how to fetch data from the **Giphy API**, display it dynamically, and manage the app's state efficiently. I also strengthened my skills in **styling** using **CSS**.
+
+## Ongoing Development  
+I plan to enhance the app by adding features like **favorite GIFs**, **pagination**, and **more advanced search options**. Additionally, I aim to optimize performance and improve **UI/UX**.
+
+## Author  
+Ale Leandro Jiménez  
+
