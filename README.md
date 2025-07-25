@@ -1,25 +1,67 @@
-# Gif Expert  
+# GifExpert App 🎞️ | JavaScript Challenge
 
-## Description  
-This project is a **GIF search app** created as part of a **Udemy course**. The app allows users to search for GIFs based on different categories and keywords. It’s built using **React**, **HTML**, and **CSS**, and integrates with the **Giphy API** to fetch and display GIFs.  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-brightgreen?style=flat&logo=netlify&logoColor=white)
 
-## Solution Link  
-[GitHub - Gif Expert](https://github.com/Aleji0309/proyectaGifExpert)  
+This is a dynamic GIF search app created using modern JavaScript. It allows users to search for GIFs through the Giphy API and display trending or custom results.
 
-## Live Site Link  
-[Live View](https://proyectagifapp.netlify.app/)  
+## 🌐 Live Preview
 
-## Technologies Used  
-- React  
-- HTML  
-- CSS  
+- 🔗 **Live Website**: [https://proyectagifapp.netlify.app](https://proyectagifapp.netlify.app)  
+- 📁 **GitHub Repository**: [https://github.com/Aleji0309/proyectaGifExpert](https://github.com/Aleji0309/proyectaGifExpert)
 
-## What I Learned  
-This project helped me improve my **React** skills, particularly in **state management**, **props**, and **API integration**. I learned how to fetch data from the **Giphy API**, display it dynamically, and manage the app's state efficiently. I also strengthened my skills in **styling** using **CSS**.
+## 🛠️ Technologies Used
 
-## Ongoing Development  
-I plan to enhance the app by adding features like **favorite GIFs**, **pagination**, and **more advanced search options**. Additionally, I aim to optimize performance and improve **UI/UX**.
+- **HTML5** – Semantic layout  
+- **CSS3** – Custom styling  
+- **JavaScript (ES6+)** – Fetch API, DOM manipulation  
+- **Giphy API** – Data source for GIFs
+- **React
 
-## Author  
-Ale Leandro Jiménez  
+## 📋 Project Description
 
+The **GifExpert App** is a lightweight and responsive web application that allows users to search for GIFs in real time. It fetches GIFs dynamically from the Giphy API and displays them in a visually engaging gallery.
+
+Users can:
+- Enter any topic to search for related GIFs
+- View trending GIFs by default
+- Add multiple search topics to see new categories
+- Enjoy smooth UX with fast loading feedback
+
+## 📌 Key Features
+
+- Dynamic data fetching with `fetch()` and async/await  
+- API integration with Giphy  
+- Search history with persistent categories  
+- Responsive layout and animated loading indicator
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Aleji0309/proyectaGifExpert.git
+````
+
+2. Navigate to the project folder:
+
+```bash
+cd proyectaGifExpert
+```
+
+3. Open `index.html` in your browser or launch using **Live Server** in VS Code.
+
+## 👤 About Me
+
+I'm a front-end developer who enjoys building interactive web apps and practicing JavaScript through real-world challenges. This project helped solidify my understanding of API consumption and async workflows.
+
+## 📬 Contact & Profiles
+
+* 🌐 **Portfolio**: [https://proyectaportafolioweb.netlify.app/#xp](https://proyectaportafolioweb.netlify.app/#xp)
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/ale-leandro-jimenez-408280241/](https://www.linkedin.com/in/ale-leandro-jimenez-408280241/)
+* 💌 **Email**: [aleandro0309@gmail.com](mailto:aleandro0309@gmail.com)
+* 🧩 **Frontend Mentor**: [https://www.frontendmentor.io/profile/Aleji0309](https://www.frontendmentor.io/profile/Aleji0309)
+
+---
